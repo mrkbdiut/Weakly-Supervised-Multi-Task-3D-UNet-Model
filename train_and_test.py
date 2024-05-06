@@ -1,4 +1,3 @@
-# updated: 05/10/2022
 import argparse
 
 import torch

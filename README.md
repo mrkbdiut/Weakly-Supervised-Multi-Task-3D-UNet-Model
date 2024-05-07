@@ -1,5 +1,5 @@
 # Multitasking-3D-UNet-PyTorch
-This repository is an implementation of [ Cochlear Implant Fold Detection in Intra-operative CT Using Weakly Supervised Multi-task Deep Learning]([https://arxiv.org/abs/1606.06650](https://doi.org/10.1007/978-3-031-43996-4_24))
+This repository is an implementation of [ Cochlear Implant Fold Detection in Intra-operative CT Using Weakly Supervised Multi-task Deep Learning] [https://arxiv.org/abs/1606.06650](https://doi.org/10.1007/978-3-031-43996-4_24)
 
 ![image](https://github.com/mrkbdiut/Weakly-Supervised-Multi-Task-3D-UNet-Model/assets/36138901/97d6046a-9ff8-4ce8-bccd-0960960c0f12)
 
